@@ -30,7 +30,7 @@ Requirements:
 Using flask-env I decided to make Envi! Its just like flask-env execpt it works for Django too!
 
 use:
-cd into envi,py directory then run:
+cd into envi.py directory then run:
 
 -$ python3 envi.py 
 

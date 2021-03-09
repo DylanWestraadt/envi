@@ -16,20 +16,12 @@ echo '
 #brew install pip3
 
 mkdir 'Django'
-
 cd Django
-
 pip3 install virtualenv
-
 virtualenv env
-
 source env/bin/activate
-
 pip3 install django
-
 echo "Name your Django app: "
-
 read varname 
-
 django-admin startproject $varname
 
